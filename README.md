@@ -57,4 +57,4 @@ The repository includes four sample text files (`file_9.txt`, `file_13.txt`, `fi
 
 ## Course
 
-Operating Systems / Systems Programming — BRACU
+Operating Systems, BRACU
