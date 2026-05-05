@@ -1,0 +1,4 @@
+*.img
+mkfs_builder
+mkfs_adder
+ls_minivsfs
